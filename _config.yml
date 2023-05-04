@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Michael Barbour, PhD
+tagline:          'Personal Website'
+description:     'Research scientist and engineer. University of Washington.  ' 
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mike Barbour'
+  url:            https://twitter.com/mdo
+
+gems: 		[jekyll-paginate]
+
+paginate:         5
+
+paginate_path:   "page:num"
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde

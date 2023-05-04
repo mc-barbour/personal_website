@@ -1,0 +1,44 @@
+---
+layout: default
+title: Home
+---
+<div class="page">
+
+
+{% for p in site.pages %}
+{% if p.title == 'About Me' %}
+      <h1 class="page-title">
+
+        {{ p.title }}
+    </h1>
+
+  {{p.content}}
+{% endif %}
+{% endfor %}
+
+</div>
+
+
+
+
+<!-- I tried adding particle.js to this page but couldn't get it to work. Will have the landing page be the About me page instead
+
+
+
+
+<div id="particles-js">
+  
+  <div class="landing">
+
+  </div>
+</div>
+
+<script src="./particles.js"></script>
+
+<script>
+    particlesJS.load('particles-js', './public/js/app.js',
+    function(){
+        console.log('particles.json loaded...')
+    })
+</script> -->
+
