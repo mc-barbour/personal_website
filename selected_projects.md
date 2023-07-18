@@ -13,7 +13,7 @@ This is a collection of on-going and past projects from academic and industry co
 
 <img src="../images/robin_image.png" alt="robin" width="100%"> 
  
-We are developing a suite of engineering analysis and clinical imaging-based tools to investigate the airflow dynamics in patients with Robin Sequence, Tracheal Compression, and Subglottic Stenosis. These pathologies are characterized by an obstruction in the airway, increased work of breathing, decreased quality of life and possible mortality. Using a combination of in-silico and in-vitro techniques we quantify the airflow dynamics in diseased patients. By comparing engineering metrics and clinical outcomes, we aim to risk stratify patients and identify the need for surgical interventions. <a href='https://link.springer.com/article/10.1007/s10439-022-03036-6'>Here</a>, a comination of 4D-CT & CFD is used to quantify flow profile in Robin Sequence patients, and then risk stratify a pilot set of patients based on severity of breathing resistance. Our risk ranking was found to correlate with clinical severity.
+We are developing a suite of engineering analysis and medical imaging based tools to investigate the airflow dynamics in patients with Robin Sequence, Tracheal Compression, and Subglottic Stenosis. These pathologies are characterized by an obstruction in the airway, increased work of breathing, decreased quality of life and possible mortality. Using a combination of in-silico and in-vitro techniques we quantify the airflow dynamics in diseased patients. By comparing engineering metrics and clinical outcomes, we aim to risk stratify patients and identify the need for surgical interventions. <a href='https://link.springer.com/article/10.1007/s10439-022-03036-6'>Here</a>, a comination of 4D-CT & CFD is used to quantify flow profile in Robin Sequence patients, and then risk stratify a pilot set of patients based on severity of breathing resistance. Our risk ranking was found to correlate with clinical severity.
 
 ---------------------------------------
 
@@ -26,7 +26,7 @@ We are developing a suite of engineering analysis and clinical imaging-based too
 
 <img src="../images/cookstoves.png" alt="cookstoves" width="100%"> 
 
-Nearly half the world's population still rely on respiratory-harming biomass stoves for cooking and heating. We leveraged air injection technology to reduce particulate emissions by 90% in biomass cookstoves. CFD results show improved mixing with increasing jet momentum. Open-source <a href='https://www-sciencedirect-com.offcampus.lib.washington.edu/science/article/pii/S0973082621001083'>designs</a>  were integrated into two <a href='https://burnstoves.com/products/wood-stoves/turbo'> manufactured</a> stoves.
+Nearly half the world's population still rely on respiratory-harming biomass stoves for cooking and heating. We leveraged air injection technology to reduce particulate emissions by 90% in biomass cookstoves. CFD results show improved mixing with increasing jet momentum, C<sub>j</sub>. Open-source <a href='https://www-sciencedirect-com.offcampus.lib.washington.edu/science/article/pii/S0973082621001083'>designs</a>  were integrated into two <a href='https://burnstoves.com/products/wood-stoves/turbo'> manufactured</a> stoves.
 
 ---------------------------------------
 
@@ -35,7 +35,7 @@ Nearly half the world's population still rely on respiratory-harming biomass sto
 
 <img src="../images/cfd_aneurysm.png" alt="cfd aneurysms" width="100%">
 
-The primary treaetment method for cerebral aneurysms are endovsacular deployed coils and stents, however high raites of treatment failure still persist. We developed a computational pipeline that incorporates patient-specific anatomy, blood-velocity, and pressure data to model blood-flow in patients before and after treatment. By comparing changes in engineering metrics following treatment to patient outcomes, we identify metrics that are predictive of treatment failure - enabling data-driven treatment prescription.
+The primary treaetment method for cerebral aneurysms are endovsacularly deployed coils and stents, however high raites of treatment failure persist. We developed a computational pipeline that incorporates patient-specific anatomy, blood-velocity, and pressure data to model blood-flow in patients before and after treatment. By comparing changes in engineering metrics following treatment to patient outcomes, we identify metrics that are predictive of treatment failure - enabling data-driven treatment prescription.
 
 ---------------------------------------
 
