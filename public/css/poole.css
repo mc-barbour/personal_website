@@ -118,6 +118,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: 0.75em;
 }
 
 dt {
@@ -261,6 +262,12 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+}
+
+.work_place {
+    font-size: 1.00rem;
+    font-weight: 300;
+    margin-top: 0;
 }
 
 

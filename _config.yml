@@ -8,14 +8,16 @@ permalink:        pretty
 
 # Setup
 title:            Michael Barbour, PhD
-tagline:          'Personal Website'
-description:     'Research scientist and engineer. University of Washington.  ' 
+tagline:         'Personal Website'
+description:     'Senior Research Scientist' 
+work:             'University of Washington <br>Dept of Mech Engineering'
+
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
   name:           'Mike Barbour'
-  url:            https://twitter.com/mdo
+  url:            
 
 gems: 		[jekyll-paginate]
 
